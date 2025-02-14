@@ -1,82 +1,61 @@
-# Dr. [Your Name], Ph.D.
-[![Website](https://img.shields.io/badge/Personal%20Website-yourdomain.com-blue)](https://yourdomain.com)
+# Heeyoung Lee (He/Him)
+[![Website](https://img.shields.io/badge/Personal%20Website-idlhy0218.github.io-brightgreen)](https://idlhy0218.github.io/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com/citations?user=YOUR_ID)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0000--0000--0000-green)](https://orcid.org/0000-0000-0000-0000)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-brightgreen)](https://www.researchgate.net/profile/Your_Profile)
-[![Twitter](https://img.shields.io/badge/Twitter-@YourHandle-1DA1F2)](https://twitter.com/YourHandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5)](https://www.linkedin.com/in/yourprofile/)
+[![Email](https://img.shields.io/badge/Email-hlee25%40albany.edu-red)](mailto:hlee25@albany.edu)
 
 ## About Me
-🎓 Assistant Professor at [University Name]  
-🔬 Research focus: [Your Research Areas]  
-📍 Department of [Your Department]  
-🌍 [Location]
+🎓 Ph.D. Candidate in Sociology at University at Albany, SUNY  
+🔬 Research Focus: Population Health, Criminology, Life-course Analysis  
+📊 Methodological Expertise: Longitudinal Analysis, Spatial Analysis  
+🌍 Department of Sociology, University at Albany, SUNY
 
-## Research Interests
-- Area 1: Description of your first research interest and its impact
-- Area 2: Description of your second research interest and its significance
-- Area 3: Description of your third research interest and potential applications
-
-## Current Projects
-1. **[Project Name 1]**
-   - Brief description of the project
-   - Key objectives and methodologies
-   - Funding source: [Funding Agency]
-
-2. **[Project Name 2]**
-   - Project overview
-   - Current status and findings
-   - Collaborators: [Names/Institutions]
-
-## Selected Publications
+## Recent Publications
 ### 2024
-- Author1, Author2, **[Your Name]**, Author4. (2024). *"Paper Title"*. Journal Name. [DOI](https://doi.org/xxx)
+- **Lee, H.** & Yang, T.C. (2024). "Spatial and Temporal Dimension of Black-White Mental Health Paradox in the US: Effect of Cumulative Neighborhood Disadvantage" *Population Research & Policy Review*
+- **Lee, H.** (2024). "State-Level Structural Sexism and Adolescent Sexual Violence Victimization in the US." *Child Abuse and Neglect*
+- **Lee, H.** (2024). "Delinquency During Puberty as a Biosocial Behavior" *Criminal Justice and Behaviors*
+- Jung, S.J., **Lee, H.**, & Suh, C.S. (2024). "Moving Apart and Coming Together" *Journal of Homosexuality*
+- **Lee, H.** & Jung, S.J. (2024). "Gender Differences in the Relationship between Coming Out as LGB to Family and Depression in South Korea" *Society and Mental Health*
 
-### 2023
-- Author1, **[Your Name]**, Author3. (2023). *"Paper Title"*. Conference Name. [DOI](https://doi.org/xxx)
+## Awards & Recognition
+- 🏆 2025: Hak-Bong Research Grant, Seoul National University
+- 🏆 2024: BIPOC Junior Scholar Grant, ASA Section on Aging and the Life Course
+- 🏆 2024: Paul Meadows Excellence in Research Award
+- 🏆 2024: Graduate Student Research Award, Chung-Ang University
 
-## Teaching
-### Current Courses
-- Course 1: [Course Code] Course Name (Semester Year)
-- Course 2: [Course Code] Course Name (Semester Year)
+## Teaching Experience
+- Medical Sociology (Instructor)
+  - Spring 2025, Fall 2024, Summer 2024
+  - University at Albany, SUNY
+- Statistics for Sociologists (Co-Teacher)
+  - Spring 2023
 
-### Student Supervision
-- PhD Students: [Number]
-- Master's Students: [Number]
-- Undergraduate Research: [Number]
+## Technical Skills
+```r
+# Analysis Tools
+R | STATA | SPSS | SAS | JAMOVI
 
-## Software & Tools
-```python
-# Languages
-Python | R | MATLAB | LaTeX
+# Spatial Analysis
+ArcGIS | GeoDa
 
-# Tools & Frameworks
-TensorFlow | PyTorch | Jupyter | Git
+# Network Analysis
+UCINET (NetDraw)
 ```
 
-## Recent News
-- 🎉 [Month Year]: Received [Award/Grant Name]
-- 📝 [Month Year]: Published paper in [Journal Name]
-- 🎓 [Month Year]: Student [Name] successfully defended their thesis
+## Professional Service
+- Peer Reviewer: Social Science and Research, Socius, Society and Mental Health, Journal of Homosexuality
+- Founding Member: Quantitative Research Group (QRG), University at Albany, SUNY
+- Member: American Sociological Association, International Sociological Association, Korean Sociological Association
 
-## Lab Resources
-- [Lab Website](https://lab-website.edu)
-- [Lab GitHub Organization](https://github.com/lab-org)
-- [Data Repositories](https://dataverse.org/your-dataverse)
-
-## Collaboration
-I'm always interested in collaborating on projects related to [Your Research Areas]. Feel free to reach out if you're interested in:
-- Joint research projects
-- Student exchanges
-- Industry partnerships
-- Conference organization
+## Education
+- Ph.D. Candidate in Sociology, University at Albany, SUNY
+- M.A. Sociology, Chung Ang University, Korea (2020)
+- B.A. Sociology, Kyung Hee University, Korea (2017)
 
 ## Contact
-- 📧 Email: your.email@university.edu
-- 🏢 Office: Building Name, Room Number
-- 📅 Office Hours: [Days/Times]
+📧 Email: hlee25@albany.edu
 
 ---
 <p align="center">
-<i>Last updated: [Current Month Year]</i>
+<i>Last updated: February 2024</i>
 </p>
