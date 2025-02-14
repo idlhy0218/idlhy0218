@@ -5,7 +5,12 @@
 **Ph.D. Candidate in Sociology** | University at Albany, SUNY  
 Population Health • Criminology • Life-course Analysis • Spatial Methods
 
-[![Website](https://img.shields.io/badge/Personal%20Website-idlhy0218.github.io-brightgreen)](https://idlhy0218.github.io/)
+<div align="center">
+  <a href="https://idlhy0218.github.io/">
+    <img src="https://img.shields.io/badge/🌐_Click_Here_for_My_Personal_Website-4285F4?style=for-the-badge&logoColor=white&color=2ea44f" alt="Personal Website"/>
+  </a>
+</div>
+
 [![CV](https://img.shields.io/badge/Curriculum%20Vitae-PDF-orange)](https://docs.google.com/document/d/1KRe12btQf0VpCvzcnxssxif5p3bfEB_j/edit?usp=sharing&ouid=116288408432476576040&rtpof=true&sd=true)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com/citations?user=YOUR_ID)
 [![Email](https://img.shields.io/badge/Email-hlee25%40albany.edu-red)](mailto:hlee25@albany.edu)
