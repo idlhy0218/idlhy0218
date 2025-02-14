@@ -25,7 +25,7 @@ Population Health • Criminology • Life-course Analysis • Spatial Methods
 - **Heeyoung Lee.** (2024). "Delinquency During Puberty as a Biosocial Behavior" *Criminal Justice and Behaviors*
 - Seong-Jo Jung., **Heeyoung Lee.**, & Chan S. Suh. (2024). "Moving Apart and Coming Together" *Journal of Homosexuality*
 - **Heeyoung Lee.** & Seong-Jo Jung. (2024). "Gender Differences in the Relationship between Coming Out as LGB to Family and Depression in South Korea" *Society and Mental Health*
-- **Heeyoung Lee**, Sooyeon Moon, and Na-Young Lee (2023). "Industry Culture Matters: Sexual Harassment in the South Korean Film Industry" *Violence Against Women*
+- **Heeyoung Lee**, Sooyeon Moon, & Na-Young Lee (2023). "Industry Culture Matters: Sexual Harassment in the South Korean Film Industry" *Violence Against Women*
 
 
 ## Selected Awards & Recognition
