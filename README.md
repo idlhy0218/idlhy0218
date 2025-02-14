@@ -1,13 +1,17 @@
-# Heeyoung Lee (He/Him)
+<div align="center">
+
+# 👋 Hi, I'm Heeyoung Lee
+
+**Ph.D. Candidate in Sociology** | University at Albany, SUNY  
+Population Health • Criminology • Life-course Analysis • Spatial Methods
+
 [![Website](https://img.shields.io/badge/Personal%20Website-idlhy0218.github.io-brightgreen)](https://idlhy0218.github.io/)
-
 [![CV](https://img.shields.io/badge/Curriculum%20Vitae-PDF-orange)](https://docs.google.com/document/d/1KRe12btQf0VpCvzcnxssxif5p3bfEB_j/edit?usp=sharing&ouid=116288408432476576040&rtpof=true&sd=true)
-
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com/citations?user=YOUR_ID)
-
 [![Email](https://img.shields.io/badge/Email-hlee25%40albany.edu-red)](mailto:hlee25@albany.edu)
-
 [![X](https://img.shields.io/badge/Twitter-@idlhy0218-1DA1F2)](https://x.com/idlhy0218)
+
+</div>
 
 ## About Me
 🎓 Ph.D. Candidate in Sociology at University at Albany, SUNY  
