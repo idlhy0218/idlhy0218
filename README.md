@@ -1,7 +1,13 @@
 # Heeyoung Lee (He/Him)
 [![Website](https://img.shields.io/badge/Personal%20Website-idlhy0218.github.io-brightgreen)](https://idlhy0218.github.io/)
+
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com/citations?user=YOUR_ID)
+
 [![Email](https://img.shields.io/badge/Email-hlee25%40albany.edu-red)](mailto:hlee25@albany.edu)
+
+[![X](https://img.shields.io/badge/Twitter-@LeePhd0218-1DA1F2)](https://x.com/idlhy0218)
+
+[![Bluesky](https://img.shields.io/badge/Bluesky-@leephd.0218-3178F6)](https://bsky.app/profile/idlhy.bsky.social)
 
 ## About Me
 🎓 Ph.D. Candidate in Sociology at University at Albany, SUNY  
@@ -9,7 +15,7 @@
 📊 Methodological Expertise: Longitudinal Analysis, Spatial Analysis  
 🌍 Department of Sociology, University at Albany, SUNY
 
-## Recent Publications
+## Selected Recent Publications
 ### 2024
 - **Lee, H.** & Yang, T.C. (2024). "Spatial and Temporal Dimension of Black-White Mental Health Paradox in the US: Effect of Cumulative Neighborhood Disadvantage" *Population Research & Policy Review*
 - **Lee, H.** (2024). "State-Level Structural Sexism and Adolescent Sexual Violence Victimization in the US." *Child Abuse and Neglect*
@@ -17,7 +23,7 @@
 - Jung, S.J., **Lee, H.**, & Suh, C.S. (2024). "Moving Apart and Coming Together" *Journal of Homosexuality*
 - **Lee, H.** & Jung, S.J. (2024). "Gender Differences in the Relationship between Coming Out as LGB to Family and Depression in South Korea" *Society and Mental Health*
 
-## Awards & Recognition
+## Selected Awards & Recognition
 - 🏆 2025: Hak-Bong Research Grant, Seoul National University
 - 🏆 2024: BIPOC Junior Scholar Grant, ASA Section on Aging and the Life Course
 - 🏆 2024: Paul Meadows Excellence in Research Award
