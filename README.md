@@ -4,6 +4,7 @@
 
 **Ph.D. Candidate in Sociology** | University at Albany, SUNY  
 Population Health • Criminology • Life-course Analysis • Spatial Methods
+</div>
 
 <div align="center">
   <a href="https://idlhy0218.github.io/">
