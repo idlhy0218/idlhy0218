@@ -1,6 +1,8 @@
 # Heeyoung Lee (He/Him)
 [![Website](https://img.shields.io/badge/Personal%20Website-idlhy0218.github.io-brightgreen)](https://idlhy0218.github.io/)
 
+[![CV](https://img.shields.io/badge/Curriculum%20Vitae-PDF-orange)](https://docs.google.com/document/d/1KRe12btQf0VpCvzcnxssxif5p3bfEB_j/edit?usp=sharing&ouid=116288408432476576040&rtpof=true&sd=true)
+
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com/citations?user=YOUR_ID)
 
 [![Email](https://img.shields.io/badge/Email-hlee25%40albany.edu-red)](mailto:hlee25@albany.edu)
