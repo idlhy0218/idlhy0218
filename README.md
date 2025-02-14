@@ -7,8 +7,6 @@
 
 [![X](https://img.shields.io/badge/Twitter-@idlhy0218-1DA1F2)](https://x.com/idlhy0218)
 
-[![Bluesky](https://img.shields.io/badge/Bluesky-@idlhy.bsky.social)](https://bsky.app/profile/idlhy.bsky.social)
-
 ## About Me
 🎓 Ph.D. Candidate in Sociology at University at Albany, SUNY  
 🔬 Research Focus: Population Health, Criminology, Life-course Analysis  
