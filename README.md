@@ -19,6 +19,9 @@ Population Health • Criminology • Life-course Analysis • Spatial Methods
 🌍 Department of Sociology, University at Albany, SUNY
 
 ## Selected Recent Publications
+### 2025
+- Tse-Chuan Yang, Carla Shoff, Kate Strully and **Heeyoung Lee**. "Features of Residential Counties and Individual Health Conditions for Opioid Use Disorder among Older Medicare Beneficiaries" *The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences*
+- **Heeyoung Lee.** & Matt Vogel. "Exposure to Police Killings and Adolescents' Self-Concept: Diverging Impact for Black and White American Youth" *Journal of Adolescence*
 ### 2024
 - **Heeyoung Lee.** & Tse-Chuan Yang. "Spatial and Temporal Dimension of Black-White Mental Health Paradox in the US: Effect of Cumulative Neighborhood Disadvantage" *Population Research & Policy Review*
 - **Heeyoung Lee.** "State-Level Structural Sexism and Adolescent Sexual Violence Victimization in the US" *Child Abuse and Neglect*
