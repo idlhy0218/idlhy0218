@@ -20,9 +20,9 @@ Population Health • Criminology • Life-course Analysis • Spatial Methods
 
 ## Selected Recent Publications
 ### 2025
-- **Lee, Heeyoung**, and Tse-Chuan Yang. 2025. "Unequal Spillover of Human Capital: Longitudinal Analysis of Mortality Among Populations by College Degree in US Counties, 2010-2022." *American Journal of Preventive Medicine*
-- Yang, Tse-Chuan, Carla Shoff, Kate Strully and **Heeyoung Lee**. 2025. "Features of Residential Counties and Individual Health Conditions for Opioid Use Disorder Among Older Medicare Beneficiaries." *The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences*
-- **Lee, Heeyoung**, and Matt Vogel. 2025. "Exposure to Police Killing and Adolescents’ Self-Concept: Diverging Effects for Black and White American Youths." *Journal of Adolescence*
+- **Lee, Heeyoung**, and Tse-Chuan Yang. "Unequal Spillover of Human Capital: Longitudinal Analysis of Mortality Among Populations by College Degree in US Counties, 2010-2022." *American Journal of Preventive Medicine*
+- Yang, Tse-Chuan, Carla Shoff, Kate Strully and **Heeyoung Lee**. "Features of Residential Counties and Individual Health Conditions for Opioid Use Disorder Among Older Medicare Beneficiaries." *The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences*
+- **Lee, Heeyoung**, and Matt Vogel. "Exposure to Police Killing and Adolescents’ Self-Concept: Diverging Effects for Black and White American Youths." *Journal of Adolescence*
 ### 2024
 - **Heeyoung Lee.** & Tse-Chuan Yang. "Spatial and Temporal Dimension of Black-White Mental Health Paradox in the US: Effect of Cumulative Neighborhood Disadvantage" *Population Research & Policy Review*
 - **Heeyoung Lee.** "State-Level Structural Sexism and Adolescent Sexual Violence Victimization in the US" *Child Abuse and Neglect*
