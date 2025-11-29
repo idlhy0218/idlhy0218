@@ -14,14 +14,15 @@ Population Health • Criminology • Life-course Analysis • Spatial Methods
 
 ## About Me
 🎓 Ph.D. Candidate in Sociology at University at Albany, SUNY  
-🔬 Research Focus: Population Health, Criminology, Life-course Analysis  
+🔬 Research Focus: Population Health, Criminology, Life-course  
 📊 Methodological Expertise: Longitudinal Analysis, Spatial Analysis  
 🌍 Department of Sociology, University at Albany, SUNY
 
 ## Selected Recent Publications
 ### 2025
-- Tse-Chuan Yang, Carla Shoff, Kate Strully and **Heeyoung Lee**. "Features of Residential Counties and Individual Health Conditions for Opioid Use Disorder among Older Medicare Beneficiaries" *The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences*
-- **Heeyoung Lee.** & Matt Vogel. "Exposure to Police Killings and Adolescents' Self-Concept: Diverging Impact for Black and White American Youth" *Journal of Adolescence*
+- **Lee, Heeyoung**, and Tse-Chuan Yang. 2025. "Unequal Spillover of Human Capital: Longitudinal Analysis of Mortality Among Populations by College Degree in US Counties, 2010-2022." *American Journal of Preventive Medicine*
+- Yang, Tse-Chuan, Carla Shoff, Kate Strully and **Heeyoung Lee**. 2025. "Features of Residential Counties and Individual Health Conditions for Opioid Use Disorder Among Older Medicare Beneficiaries." *The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences*
+- **Lee, Heeyoung**, and Matt Vogel. 2025. "Exposure to Police Killing and Adolescents’ Self-Concept: Diverging Effects for Black and White American Youths." *Journal of Adolescence*
 ### 2024
 - **Heeyoung Lee.** & Tse-Chuan Yang. "Spatial and Temporal Dimension of Black-White Mental Health Paradox in the US: Effect of Cumulative Neighborhood Disadvantage" *Population Research & Policy Review*
 - **Heeyoung Lee.** "State-Level Structural Sexism and Adolescent Sexual Violence Victimization in the US" *Child Abuse and Neglect*
@@ -39,8 +40,10 @@ Population Health • Criminology • Life-course Analysis • Spatial Methods
 - 🏆 2024: Graduate Student Research Award, Chung-Ang University
 
 ## Teaching Experience
-- Medical Sociology (Instructor)
-  - Spring 2025, Fall 2024, Summer 2024
+- Criminology (Adjunct Instructor)
+  - Fall 2025, Spring 2025 
+- Medical Sociology (Adjunct Instructor)
+  - Fall 2025, Spring 2025, Fall 2024, Summer 2024
   - University at Albany, SUNY
 - Statistics for Sociologists (Co-Teacher)
   - Spring 2023
