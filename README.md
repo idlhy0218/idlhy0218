@@ -1,92 +1,72 @@
-<div align="center">
+<h1 align="center">Heeyoung Lee</h1>
+<p align="center">
+  <b>Ph.D. Candidate in Sociology | University at Albany, SUNY</b><br>
+  Population Health • Criminology • Life-course Analysis • Spatial Sociology
+</p>
 
-# 👋 Hi, I'm Heeyoung Lee
-
-**Ph.D. Candidate in Sociology** | University at Albany, SUNY  
-Population Health • Criminology • Life-course Analysis • Spatial Methods
-
-</div>
-
-<div align="center">
-  <a href="https://idlhy0218.github.io/">
-    <img src="https://img.shields.io/badge/🌐_Click_Here_for_My_Personal_Website-4285F4?style=for-the-badge&logoColor=white&color=2ea44f" alt="Personal Website"/>
-  </a>
-</div>
-
-## About Me
-
-🎓 Ph.D. Candidate in Sociology at University at Albany, SUNY  
-🔬 Research Focus: Population Health, Criminology, Life-course  
-📊 Methodological Expertise: Longitudinal Analysis, Spatial Analysis  
-🌍 Department of Sociology, University at Albany, SUNY
-
-## Selected Recent Publications
-
-### 2025
-- **Heeyoung Lee** and Tse-Chuan Yang. "How Does County Educational Composition Affect Mortality." *Lerner Center Population Health Research Brief Series, Research Brief #139*
-- **Heeyoung Lee** and Tse-Chuan Yang. "Unequal Spillover of Human Capital: Longitudinal Analysis of Mortality Among Populations by College Degree in US Counties, 2010-2022." *American Journal of Preventive Medicine*
-- Tse-Chuan Yang, Carla Shoff, Kate Strully, and **Heeyoung Lee**. "Features of Residential Counties and Individual Health Conditions for Opioid Use Disorder Among Older Medicare Beneficiaries." *The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences*
-- **Heeyoung Lee** and Matt Vogel. "Exposure to Police Killing and Adolescents' Self-Concept: Diverging Effects for Black and White American Youths." *Journal of Adolescence*
-- Seong-Jo Jung, **Heeyoung Lee**, and Chan S. Suh. "Moving Apart and Coming Together: The Dynamics of Coalition Building in the Case of South Korean LGBTQ Movement." *Journal of Homosexuality*
-- **Heeyoung Lee** and Seong-Jo Jung. "Gender Differences in the Relationship between Coming Out as LGB to Family and Depression in South Korea." *Society and Mental Health*
-
-### 2024
-- **Heeyoung Lee** and Tse-Chuan Yang. "Spatial and Temporal Dimension of Black-White Mental Health Paradox in the US: Effect of Cumulative Neighborhood Disadvantage." *Population Research & Policy Review*
-- **Heeyoung Lee**. "State-Level Structural Sexism and Adolescent Sexual Violence Victimization in the US." *Child Abuse and Neglect*
-- **Heeyoung Lee**. "Delinquency During Puberty as a Biosocial Behavior: Time-Varying Effects of Social Contexts on Girl's Delinquency in South Korea." *Criminal Justice and Behaviors*
-- **Heeyoung Lee**, Sooyeon Moon, and Na-Young Lee. "Industry Culture Matters: Sexual Harassment in the South Korean Film Industry." *Violence Against Women*
-
-### 2023
-- Seong-Jo Jung and **Heeyoung Lee**. "Open, Discreet, and Repressive Closet: Latent Class Analysis on the Patterns of LGBTQ+ Youth's Coming Out." *The Korean Journal of Sociology* [in Korean]
-
-## Selected Awards & Recognition
-
-- 🏆 2025: Hak-Bong Research Grant, Seoul National University
-- 🏆 2024: BIPOC Junior Scholar Grant, ASA Section on Aging and the Life Course
-- 🏆 2024: Paul Meadows Excellence in Research Award
-- 🏆 2024: Graduate Student Research Award, Chung-Ang University
-
-## Teaching Experience
-
-- Criminology (Adjunct Instructor)
-  - Fall 2025, Spring 2025 
-- Medical Sociology (Adjunct Instructor)
-  - Fall 2025, Spring 2025, Fall 2024, Summer 2024
-  - University at Albany, SUNY
-- Statistics for Sociologists (Co-Teacher)
-  - Spring 2023
-
-## Technical Skills
-
-```r
-# Analysis Tools
-R | STATA | SPSS | SAS | JAMOVI
-
-# Spatial Analysis
-ArcGIS | GeoDa
-
-# Network Analysis
-UCINET (NetDraw)
-```
-
-## Professional Service
-
-- Peer Reviewer: Social Science and Research, Socius, Society and Mental Health, Journal of Homosexuality
-- Founding Member: Quantitative Research Group (QRG), University at Albany, SUNY
-- Member: American Sociological Association, International Sociological Association, Korean Sociological Association
-
-## Education
-
-- Ph.D. Candidate in Sociology, University at Albany, SUNY
-- M.A. Sociology, Chung Ang University, Korea (2020)
-- B.A. Sociology, Kyung Hee University, Korea (2017)
-
-## Contact
-
-📧 Email: hlee25@albany.edu
+<p align="center">
+  <a href="https://idlhy0218.github.io/"><b>Personal Website</b></a> | 
+  <a href="https://orcid.org/0000-0002-1579-6369"><b>ORCID</b></a> | 
+  <a href="https://www.linkedin.com/in/heeyoung-lee-086b2926a/"><b>LinkedIn</b></a>
+</p>
 
 ---
 
-<p align="center">
-<i>Last updated: January 2026</i>
+### Research Profile
+> I am a Ph.D. Candidate at the University at Albany, SUNY. My research employs advanced quantitative and spatial methods to investigate how structural inequalities and socio-ecological contexts influence health and behavioral outcomes across the life course.
+
+* **Dissertation**: Living Among the Educated: County Educational Contexts and Educational Mortality Gaps in the United States, 2010–2022
+* **Committee**: Tse-Chuan Yang (Chair), Kate Strully, Jonathan Dirlam, Matt Vogel
+
+---
+
+### Technical Proficiency
+
+| Category | Tools & Software |
+| :--- | :--- |
+| **Statistical Analysis** | R, STATA, Python, SPSS, SAS, Mplus, JAMOVI |
+| **Workflow & Research** | GitHub, Quarto, LaTeX, Zotero, Obsidian |
+
+---
+
+### Selected Publications
+
+#### 2025–2026
+* **Lee, H.**, & Yang, T. C. (2025). Unequal Spillover of Human Capital: Longitudinal Analysis of Mortality Among Populations by College Degree in US Counties, 2010–2022. *American Journal of Preventive Medicine*.
+* Yang, T. C., Shoff, C., Strully, K., & **Lee, H.** (2025). Features of Residential Counties and Individual Health Conditions for Opioid Use Disorder Among Older Medicare Beneficiaries. *The Journals of Gerontology, Series B*.
+* **Lee, H.**, & Vogel, M. (2025). Exposure to Police Killing and Adolescents’ Self-Concept: Diverging Effects for Black and White American Youths. *Journal of Adolescence*.
+* Jung, S. J., **Lee, H.**, & Suh, C. S. (2025). Moving Apart and Coming Together: The Dynamics of Coalition Building in the Case of South Korean LGBTQ Movement. *Journal of Homosexuality*.
+* **Lee, H.**, & Jung, S. J. (2025). Gender Differences in the Relationship between Coming Out as LGB to Family and Depression in South Korea. *Society and Mental Health*.
+* **Lee, H.**, & Yang, T. C. (2025). How Does County Educational Composition Affect Mortality. *Lerner Center Population Health Research Brief Series, #139*.
+
+#### 2024
+* **Lee, H.**, & Yang, T. C. (2024). Spatial and Temporal Dimension of Black-White Mental Health Paradox in the US: Effect of Cumulative Neighborhood Disadvantage. *Population Research and Policy Review*.
+* **Lee, H.** (2024). State-Level Structural Sexism and Adolescent Sexual Violence Victimization in the US. *Child Abuse & Neglect*.
+* **Lee, H.** (2024). Delinquency During Puberty as a Biosocial Behavior: Time-Varying Effects of Social Contexts on Girl's Delinquency in South Korea. *Criminal Justice and Behavior*.
+* **Lee, H.**, Moon, S., & Lee, N. Y. (2024). Industry Culture Matters: Sexual Harassment in the South Korean Film Industry. *Violence Against Women*.
+
+---
+
+### Professional Experience & Service
+
+**Teaching**
+* **Adjunct Instructor** | University at Albany, SUNY
+    * Criminology (Spring 2025 – Spring 2026)
+    * Medical Sociology (Summer 2024 – Spring 2026)
+
+**Editorial Service**
+* **Peer Reviewer**: *Social Science Research*, *Socius*, *Society and Mental Health*, *Journal of Homosexuality*, *American Journal of Preventive Medicine Focus*
+
+---
+
+### Honors and Awards
+* **2025** | Hak-Bong Research Grant, Seoul National University
+* **2024** | BIPOC Junior Scholar Grant, ASA Section on Aging and the Life Course
+* **2024** | Paul Meadows Excellence in Research Award, University at Albany
+* **2024** | Graduate Student Research Award, Chung-Ang University
+
+<br>
+
+<p align="right">
+  <i>Last updated: February 2026</i>
 </p>
