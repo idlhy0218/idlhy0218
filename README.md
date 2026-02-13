@@ -10,6 +10,14 @@
   <a href="https://www.linkedin.com/in/heeyoung-lee-086b2926a/"><b>LinkedIn</b></a>
 </p>
 
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/idlhy0218/idlhy0218/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<br>
+
 ---
 
 ### Research Profile
@@ -25,6 +33,7 @@
 | Category | Tools & Software |
 | :--- | :--- |
 | **Statistical Analysis** | R, STATA, Python, SPSS, SAS, Mplus, JAMOVI |
+| **Spatial & Network** | ArcGIS, GeoDa, UCINET (NetDraw) |
 | **Workflow & Research** | GitHub, Quarto, LaTeX, Zotero, Obsidian |
 
 ---
