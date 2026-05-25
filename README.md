@@ -40,7 +40,11 @@
 
 ### Selected Publications
 
-#### 2025–2026
+#### 2026
+* **Lee, H.** (2026). Permeable Boundaries: How Neighboring States’ Policy Environments Shape Local Mortality Rates in The United States. *Journal of Health and Social Behavior*
+* Yang, T.-C., **Lee, H.**, & Suhel, G. M. (2026). Age segregation and deaths of despair among older adults, 2010-2022: Rural/Urban county comparisons. *Social Science and Medicine*
+
+#### 2025
 * **Lee, H.**, & Yang, T. C. (2025). Unequal Spillover of Human Capital: Longitudinal Analysis of Mortality Among Populations by College Degree in US Counties, 2010–2022. *American Journal of Preventive Medicine*.
 * Yang, T. C., Shoff, C., Strully, K., & **Lee, H.** (2025). Features of Residential Counties and Individual Health Conditions for Opioid Use Disorder Among Older Medicare Beneficiaries. *The Journals of Gerontology, Series B*.
 * **Lee, H.**, & Vogel, M. (2025). Exposure to Police Killing and Adolescents’ Self-Concept: Diverging Effects for Black and White American Youths. *Journal of Adolescence*.
