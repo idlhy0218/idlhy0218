@@ -23,7 +23,7 @@
 ### Research Profile
 > I am a Ph.D. Candidate at the University at Albany, SUNY. My research employs advanced quantitative and spatial methods to investigate how structural inequalities and socio-ecological contexts influence health and behavioral outcomes across the life course.
 
-* **Dissertation**: Living Among the Educated: County Educational Contexts and Educational Mortality Gaps in the United States, 2010–2022
+* **Dissertation**: Living Among the Educated: Human Capital Spillover and Educational Mortality Gaps in the United States (2010–2022)
 * **Committee**: Tse-Chuan Yang (Chair), Kate Strully, Jonathan Dirlam, Matt Vogel
 
 ---
@@ -41,8 +41,13 @@
 ### Selected Publications
 
 #### 2026
-* **Lee, H.** (2026). Permeable Boundaries: How Neighboring States’ Policy Environments Shape Local Mortality Rates in The United States. *Journal of Health and Social Behavior*
-* Yang, T.-C., **Lee, H.**, & Suhel, G. M. (2026). Age segregation and deaths of despair among older adults, 2010-2022: Rural/Urban county comparisons. *Social Science and Medicine*
+* Yang, T.-C., Shoff, C., **Lee, H.**, & Park, K. (2026). Research Note: Opioid Use Disorder Diagnosis during the COVID-19 Pandemic and Mortality Rates among Older Medicare Beneficiaries in the US. *Demography* (Forthcoming).
+* Hong, Y., & **Lee, H.** (2026). Selectivity, Assimilation, and the Limits of Education: Immigrant Mortality Trajectories Among Asian and Hispanic Populations in the US. *Sociology of Race and Ethnicity*.
+* Vogel, M., **Lee, H.**, Kaser, T., & Kim, Y. (2026). Misappropriating Vulnerability: Assessing the Social Vulnerability Index as a Predictor of Firearm Violence. *PLOS One*.
+* **Lee, H.**, Shin, J., & Dirlam, J. (2026). The Influence of Structural Sexism and the #MeToo Movement on Sexual Harassment Complaints in the United States. *The Sociological Quarterly*.
+* Jeong, S.-J., Kim, B., **Lee, H.**, & Lee, H. (2026). Substance Use and Mental Health Outcomes among Gay and Bisexual Men in South Korea: A Cross-Sectional Study. *Addictive Behavior Reports*.
+* **Lee, H.** (2026). Permeable Boundaries: How Neighboring States’ Policy Environments Shape Local Mortality Rates in the United States. *Journal of Health and Social Behavior*.
+* Yang, T.-C., **Lee, H.**, & Suhel, G. M. (2026). Age Segregation and Deaths of Despair among Older Adults, 2010–2022: Rural/Urban County Comparisons. *Social Science and Medicine*.
 
 #### 2025
 * **Lee, H.**, & Yang, T. C. (2025). Unequal Spillover of Human Capital: Longitudinal Analysis of Mortality Among Populations by College Degree in US Counties, 2010–2022. *American Journal of Preventive Medicine*.
@@ -64,22 +69,23 @@
 
 **Teaching**
 * **Adjunct Instructor** | University at Albany, SUNY
+    * Medical Sociology (Summer 2024 – Fall 2026)
     * Criminology (Spring 2025 – Spring 2026)
-    * Medical Sociology (Summer 2024 – Spring 2026)
 
 **Editorial Service**
-* **Peer Reviewer**: *Social Science Research*, *Socius*, *Society and Mental Health*, *Journal of Homosexuality*, *American Journal of Preventive Medicine Focus*
+* **Peer Reviewer**: *Social Science & Medicine - Mental Health*, *Social Science Research*, *Population Research and Policy Review*, *Socius*, *Society and Mental Health*, *Sociology of Race and Ethnicity*, *American Journal of Preventive Medicine Focus*, *Journal of Homosexuality*
 
 ---
 
 ### Honors and Awards
+* **2026** | Howard B. Kaplan Memorial Award, ASA Section on Medical Sociology
 * **2025** | Hak-Bong Research Grant, Seoul National University
-* **2024** | BIPOC Junior Scholar Grant, ASA Section on Aging and the Life Course
+* **2024** | BIPOC Junior Scholar Travel Grant, ASA Section on Aging and the Life Course
 * **2024** | Paul Meadows Excellence in Research Award, University at Albany
-* **2024** | Graduate Student Research Award, Chung-Ang University
+* **2024** | Korean Student Research Award, Chung-Ang University
 
 <br>
 
 <p align="right">
-  <i>Last updated: February 2026</i>
+  <i>Last updated: October 2026</i>
 </p>
