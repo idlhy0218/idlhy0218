@@ -87,5 +87,5 @@
 <br>
 
 <p align="right">
-  <i>Last updated: October 2026</i>
+  <i>Last updated: November 2026</i>
 </p>
